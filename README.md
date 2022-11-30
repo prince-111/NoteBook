@@ -1,6 +1,12 @@
 # Getting Started with Create React App
+# NoteBook
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/88477312/204714368-7498bca5-6fb0-4ad0-9187-2e7c97a55be1.png">
+<p>
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/88477312/204714269-29b934b8-a5fb-4965-9657-2c3d47ab809b.png">
+
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/88477312/204714511-86af784b-4a1f-441a-ab67-cc4b9806f1f3.png">
+</p>
 
 ## Available Scripts
 
