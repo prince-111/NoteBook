@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+
+## Features to add:
+    forgot password.
+    login with another account.
+
 # NoteBook
 
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/88477312/204714368-7498bca5-6fb0-4ad0-9187-2e7c97a55be1.png">
